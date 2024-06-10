@@ -1,10 +1,10 @@
 # php8_oracle
 
-#Objetivo
+# Objetivo
 
   Container criado para facilitar o aprendizado no desenvolvimento de aplicações, utilizando bancos de dados oracle.
 
-#Conhecimentos Necessários
+# Conhecimentos Necessários
 
   Para utilização do presente projeto, faz-se necessário o conhecimento básico, prévio, prévio em: docker, docker compose, PHP e Oracle.
 
