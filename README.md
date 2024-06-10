@@ -24,4 +24,4 @@ Container criado para facilitar o aprendizado no desenvolvimento de aplicações
 
 # Pasta da Aplicação
 
-  Os arquivos da sua aplicação derão estar dentro da pasta app, que está mapeada para a pasta /var/www/html do container.
+  Os arquivos da sua aplicação deverão estar dentro da pasta app, que está mapeada para a pasta /var/www/html do container.
