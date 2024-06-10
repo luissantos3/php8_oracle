@@ -11,7 +11,7 @@ Container criado para facilitar o aprendizado no desenvolvimento de aplicações
   2 - Coloque os arquivos na pasta "oracle" do projeto;
 
   
-  3 - No prompt de comando execute o seguinte comando:
+  3 - No prompt de comando, entre na pasta do projeto e execute o seguinte comando:
             
     docker-compose up
 
