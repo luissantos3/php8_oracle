@@ -14,7 +14,7 @@
 
     instantclient-basic-linux.x64-19.19.0.0.0dbru.el9.zip
     instantclient-sdk-linux.x64-19.19.0.0.0dbru.el9.zip
-    instantclient-sdk-linux.x64-19.19.0.0.0dbru.el9.zip
+    instantclient-sqlplus-linux.x64-19.19.0.0.0dbru.el9.zip
 
   2 - Coloque os arquivos na pasta "oracle" do projeto. (Obs: Tentando facilitar, apenas o arquivo "instantclient-basic-linux.x64-19.19.0.0.0dbru.el9.zip" não foi adicionado ao projeto devido ao seu tamanho);
 
