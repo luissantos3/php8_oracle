@@ -1,0 +1,7 @@
+# Configurações de conexão com o banco de dados Oracle
+SERVERNAME = "X.X.X.X"
+PORT = "XXXX"
+SID = "XXXXXXXX"
+DBNAME = "XXXXXXXXX"
+USERNAME = "XXXXXXXXXXX"
+PASSWORD = "XXXXXXXXXXX"
