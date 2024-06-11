@@ -6,7 +6,7 @@
 
 # Conhecimentos Necessários
 
-  Para utilização do presente projeto, faz-se necessário o conhecimento básico, prévio, prévio em: docker, docker compose, PHP e Oracle.
+  Para utilização do presente projeto, faz-se necessário o conhecimento básico prévio em: docker, docker compose, PHP e Oracle.
 
 
 # Configuração inicial
